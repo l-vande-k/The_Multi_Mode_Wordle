@@ -1,0 +1,1 @@
+This repo contains a hobby project that I have been working on off and on for fun. My goal is to transfer this program from C++ to C and to build an embedded video game using a rotary encoder switch, two push button switches, and a LCD display. The platform will most likely start on a development board, but my goal is to transition to a PCB mounted system.
